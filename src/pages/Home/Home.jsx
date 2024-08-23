@@ -1,4 +1,5 @@
-import {Upload} from "../../Components/Upload/Upload"
+import Upload from "../../components/upload/upload"
+
 
 
 function Home() {
